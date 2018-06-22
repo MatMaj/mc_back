@@ -1,0 +1,19 @@
+{
+  "name": "mikroserwis",
+  "version": "1.0.0",
+  "description": "Mikroserwis na zajecia z narzedzi programistycznych",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Ja",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mysql": "^2.15.0",
+    "socket.io": "^2.1.1"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2"
+  }
+}
